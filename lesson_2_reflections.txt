@@ -7,3 +7,7 @@ This will allow Git to keep track of the directory as a repository. If you don't
 -How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's an intermediary between the working directory and the repository. It helps prepare what each commit will have so that it can contain exactly the desired files. 
+
+-How can you use the staging area to make sure you have one commit per logical change?
+
+With the staging area you can set up any combination of files as you wish in a commit so you can easily partition commits by logical changes.

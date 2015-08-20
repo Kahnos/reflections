@@ -15,3 +15,9 @@ With the staging area you can set up any combination of files as you wish in a c
 -What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches make it possible to try changes without derailing the course of the development or modifying permanently files from the master branch. It allows parallel development.
+
+For example, you can develop new features on your own branch while the master branch continues evolving and add your features in the end.
+
+-How do the diagrams help you visualize the branch structure?
+
+It's an easy to see graphical representation of the branching in a Git repository, showing every branch and the commits that belong to it. 

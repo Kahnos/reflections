@@ -25,3 +25,9 @@ It's an easy to see graphical representation of the branching in a Git repositor
 -What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It results in a commit which contains the union of the two commits. We represent it that way because it has two parents consisting in the two commits that formed the merge.
+
+-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging can save a lot of time and effort obviously, yet it could go wrong or fail to work sometimes. 
+
+On the other hand, manual mergeing is guaranteed to work considering the user is an expert on the issue or you can contact all the users that worked on the commits involved, yet this method is sure to take much more time and effort in the analysis involved.

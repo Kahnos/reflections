@@ -21,3 +21,7 @@ For example, you can develop new features on your own branch while the master br
 -How do the diagrams help you visualize the branch structure?
 
 It's an easy to see graphical representation of the branching in a Git repository, showing every branch and the commits that belong to it. 
+
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It results in a commit which contains the union of the two commits. We represent it that way because it has two parents consisting in the two commits that formed the merge.

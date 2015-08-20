@@ -3,3 +3,7 @@
 Initializing a repository will create a .git hidden subfolder in the correspondent directory which will contain all the metadata related to it for Git. 
 
 This will allow Git to keep track of the directory as a repository. If you don't do it Git will not keep track of it.
+
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's an intermediary between the working directory and the repository. It helps prepare what each commit will have so that it can contain exactly the desired files. 

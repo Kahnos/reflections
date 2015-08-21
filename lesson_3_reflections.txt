@@ -6,3 +6,9 @@ Even when working alone a remote repository provides a backup in the cloud for e
 -Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Automatic update can overwrite content or a branch without the user consent. 
+
+-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A branch describes a labeled commit. It's useful check out a previous commit and perform changes or new features, separating from the course of the master branch.
+A clone means copying a repository locally or from the GitHub server into your machine. 
+A fork means copying a repository from GitHub into your GitHub account, recognizing the connection with the original author.

@@ -12,3 +12,8 @@ Automatic update can overwrite content or a branch without the user consent.
 A branch describes a labeled commit. It's useful check out a previous commit and perform changes or new features, separating from the course of the master branch.
 A clone means copying a repository locally or from the GitHub server into your machine. 
 A fork means copying a repository from GitHub into your GitHub account, recognizing the connection with the original author.
+
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Having it locally means you can work on it anytime anywhere without internet connection. 
+Also, it's important to know the status of your local repository in regards to the remote (Ahead, behind, etc).

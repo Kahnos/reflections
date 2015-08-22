@@ -23,3 +23,7 @@ Also, it's important to know the status of your local repository in regards to t
 Without Github, i worked in person or using Google Docs, sadly this caused much confusion when merging different features or keeping track of versions. Usually i ended up with several directories with a timestamp and no comment.
 
 Github allows structured collaboration via pull requests and branches, it's definitely easier and more organized.
+
+-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It's better to use a separate branch when attempting changes that could break the software in the master branch, like trying new features. This is safer and allows the master branch to continue evolving while you work separately, but takes more effort to merge.

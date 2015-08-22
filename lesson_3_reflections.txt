@@ -17,3 +17,9 @@ A fork means copying a repository from GitHub into your GitHub account, recogniz
 
 Having it locally means you can work on it anytime anywhere without internet connection. 
 Also, it's important to know the status of your local repository in regards to the remote (Ahead, behind, etc).
+
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Github, i worked in person or using Google Docs, sadly this caused much confusion when merging different features or keeping track of versions. Usually i ended up with several directories with a timestamp and no comment.
+
+Github allows structured collaboration via pull requests and branches, it's definitely easier and more organized.
